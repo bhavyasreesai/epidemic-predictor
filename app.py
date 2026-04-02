@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from model import load_data, prepare_data, train_model, predict_future
 
 st.title("🦠 AI Epidemic Predictor & Risk Dashboard")
-st.write("Developed by Bhavya Sree Sai for Codecure AI Hackathon 2026")
+
 # Load data
 df = load_data()
 
