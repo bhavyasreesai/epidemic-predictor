@@ -23,5 +23,3 @@ This project uses machine learning to predict future COVID-19 cases and classify
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-## Author
-Developed by Bhavya Sree Sai for Codecure AI Hackathon 2026.
